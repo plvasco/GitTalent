@@ -25,7 +25,7 @@
 		<github-api.version>1.77</github-api.version>
 		<okhttp.version>2.7.5</okhttp.version>
 		<testcontainers.version>1.1.6</testcontainers.version>
-        <couchbase.version>2.3.6</couchbase.version>
+        <couchbase.version>2.7.23</couchbase.version>
         <selenium.version>2.45.0</selenium.version>
 	</properties>
 
