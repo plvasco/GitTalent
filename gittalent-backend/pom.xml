@@ -22,11 +22,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<github-api.version>1.77</github-api.version>
+		<github-api.version>1.102</github-api.version>
 		<okhttp.version>2.7.5</okhttp.version>
 		<testcontainers.version>1.1.6</testcontainers.version>
         <couchbase.version>2.3.6</couchbase.version>
-        <selenium.version>2.45.0</selenium.version>
+        <selenium.version>2.53.0</selenium.version>
 	</properties>
 
 	<dependencies>
